@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/kita_left_normal.png</file>
+        <file>res/kita_left_smile.png</file>
+        <file>res/background.png</file>
+        <file>res/kita_double.wav</file>
+        <file>res/kita_middle_normal.png</file>
+        <file>res/kita_middle_smile.png</file>
+        <file>res/kita_right_normal.png</file>
+        <file>res/kita_right_smile.png</file>
+        <file>res/kita_single.wav</file>
+        <file>res/icon.png</file>
+    </qresource>
+</RCC>
